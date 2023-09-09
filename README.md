@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -61,3 +62,7 @@ yarn preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# oppo-shop
+nuxt练手项目-OPPO商城
+>>>>>>> 9bdd5b1553cf77d6e4ad530cb3d69a8899970e30
